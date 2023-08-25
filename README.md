@@ -1,1 +1,2 @@
 # Let-Learn-programming
+- Computer programming is the process of performing particular computations, usually by designing and building executable computer programs. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms.
