@@ -1,5 +1,5 @@
 #include<stdio.h>
-// non perameterise function
+// function with non arguments and a return value 
 void wish(){
     printf("good morning mam!\n");
 }
